@@ -14,5 +14,19 @@
 <a href="https://github.com/JaimeCirilo/aulas_python">
   <img height=30 align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </a>
+  <a">
+  <img height=30 align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</a>
+  <a">
+  <img height=30 align="center" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a">
+  <img height=200 align="right" src="cartoon.png" />
+</a>
+
+
 </div>
+
+
+
 
