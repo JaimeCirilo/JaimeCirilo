@@ -1,9 +1,6 @@
-### Olá 👋
+Olá, pessoal! 👋
 
-<!--
-**JaimeCirilo/JaimeCirilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Meu nome é Jaime Vinícius
 
 - 🔭 Eu trabalho com aulas de lógica de programação e python!
 - 🌱 Eu estou aprendendo análise de dados, PowerBi e Machine Learn.
